@@ -122,7 +122,7 @@ migration for the `freebies` table.
 
 After creating the `freebies` table using a migration, use the `seed.py` file to
 create instances of your `Freebie` class so you can test your code.
-
+![alt text](<Ability to seed .png>)
 **After you've set up your `freebies` table**, work on building out the following
 deliverables.
 
@@ -155,7 +155,7 @@ Use `python debug.py` and check that these methods work before proceeding. For
 example, you should be able to retrieve a dev from the database by its
 attributes and view their companies with `dev.companies` (based on your seed
 data).
-
+![alt text](<Start of debug.png>)
 ### Aggregate Methods
 
 #### Freebie
